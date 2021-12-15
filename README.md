@@ -16,7 +16,7 @@ Using K-means for  clustering Cryptocurrencies
 
 ![image](https://user-images.githubusercontent.com/86276329/146142758-f34a2999-b53f-4bea-bb74-a949cae4da70.png)
 
- Visualizing  Cryotocurrencis Results:
+ Visualizing  Cryotocurrencies Results:
  
 ![image](https://user-images.githubusercontent.com/86276329/146143413-b79c72a7-4f62-4165-bda7-f16a2a0197ef.png)
 
